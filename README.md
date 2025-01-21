@@ -26,6 +26,8 @@
   <p align="left">
     <a href="https://github.com/CopeMonster/Copium"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CopeMonster&repo=Copium&theme=react&bg_color=1F222E&title_color=da7885&hide_border=true&icon_color=F8D866&show_icons=false" alt="copium"></a>
     <a href="https://github.com/CopeMonster/OpportuNetRewrite"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CopeMonster&repo=OpportuNetRewrite&theme=react&bg_color=1F222E&title_color=da7885&hide_border=true&icon_color=F8D866&show_icons=false" alt="OpportuNetRewrite"></a>
+    <a href="https://github.com/CopeMonster/KinoReviewRewrite"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CopeMonster&repo=KinoReviewRewrite&theme=react&bg_color=1F222E&title_color=da7885&hide_border=true&icon_color=F8D866&show_icons=false" alt="KinoReviewRewrite"></a>
+    <a href="https://github.com/CopeMonster/ITParkCRM"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CopeMonster&repo=ITParkCRM&theme=react&bg_color=1F222E&title_color=da7885&hide_border=true&icon_color=F8D866&show_icons=false" alt="ITParkCRM"></a>
   </p>
 
 <a href="https://github.com/CopeMonster?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
