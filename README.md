@@ -10,18 +10,18 @@
 
 <p align="center">
   <a href="https://github.com/CopeMonster/Copium">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CopeMonster&repo=Copium&theme=transparent&title_color=9370DB&text_color=9370DB&icon_color=9370DB&border_color=9370DB&border_radius=20" />
+    <img width="400" height="180" src="https://github-readme-stats.vercel.app/api/pin/?username=CopeMonster&repo=Copium&theme=transparent&title_color=9370DB&text_color=9370DB&icon_color=9370DB&border_color=9370DB&border_radius=20" />
   </a>
   <a href="https://github.com/CopeMonster/OpportuNetRewrite">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CopeMonster&repo=OpportuNetRewrite&theme=transparent&title_color=9370DB&text_color=9370DB&icon_color=9370DB&border_color=9370DB&border_radius=20" />
+    <img width="400" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=CopeMonster&repo=OpportuNetRewrite&theme=transparent&title_color=9370DB&text_color=9370DB&icon_color=9370DB&border_color=9370DB&border_radius=20" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/CopeMonster/KinoReviewRewrite">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CopeMonster&repo=KinoReviewRewrite&theme=transparent&title_color=9370DB&text_color=9370DB&icon_color=9370DB&border_color=9370DB&border_radius=20" />
+    <img width="400" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=CopeMonster&repo=KinoReviewRewrite&theme=transparent&title_color=9370DB&text_color=9370DB&icon_color=9370DB&border_color=9370DB&border_radius=20" />
   </a>
   <a href="https://github.com/CopeMonster/CarShopCRM">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CopeMonster&repo=CarShopCRM&theme=transparent&title_color=9370DB&text_color=9370DB&icon_color=9370DB&border_color=9370DB&border_radius=20" />
+    <img width="400" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=CopeMonster&repo=CarShopCRM&theme=transparent&title_color=9370DB&text_color=9370DB&icon_color=9370DB&border_color=9370DB&border_radius=20" />
   </a>
 </p>
