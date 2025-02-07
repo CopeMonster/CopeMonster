@@ -23,7 +23,6 @@
 &nbsp;
 
 ![My Projects](https://img.shields.io/badge/My%2C%20projects-9370DB?style=for-the-badge)
-
 <p align="center">
   <a href="https://github.com/CopeMonster/Copium">
     <img width="400" height="180" src="https://github-readme-stats.vercel.app/api/pin/?username=CopeMonster&repo=Copium&theme=transparent&bg_color=9370DB&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=9370DB&border_radius=20" />
