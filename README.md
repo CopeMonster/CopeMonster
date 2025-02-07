@@ -37,6 +37,6 @@
     <img width="400" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=CopeMonster&repo=KinoReviewRewrite&theme=transparent&title_color=9370DB&text_color=9370DB&icon_color=9370DB&border_color=9370DB&border_radius=20" />
   </a>
   <a href="https://github.com/CopeMonster/Copium">
-    <img width="400" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=CopeMonster&repo=CarShopCRM&theme=transparent&title_color=9370DBtext_color=9370DB&icon_color=9370DB&border_color=9370DB&border_radius=20" />
+    <img width="400" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=CopeMonster&repo=CarShopCRM&theme=transparent&title_color=9370DB&text_color=9370DB&icon_color=9370DB&border_color=9370DB&border_radius=20" />
   </a>
 </p>
