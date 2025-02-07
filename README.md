@@ -53,6 +53,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CopeMonster&show_icons=true&theme=transparent&title_color=9370DB&text_color=9370DB&icon_color=9370DB&border_color=9370DB&border_radius=20&rank_icon=github&include_all_commits=tru)
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/CopeMonster?theme=transparent&font=Inknut%20Antiqua&ext=heatmap)
+
 &nbsp;
 
 ![My Projects](https://img.shields.io/badge/My%2C%20projects-9370DB?style=for-the-badge)
