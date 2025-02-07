@@ -18,7 +18,7 @@
 
 ![Statistics](https://img.shields.io/badge/Statistics-9370DB?style=for-the-badge)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CopeMonster&show_icons=true&theme=transparent&title_color=9370DB&text_color=9370DB&icon_color=9370DB&border_color=9370DB&border_radius=20&rank_icon=github&include_all_commits=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CopeMonster&show_icons=true&theme=transparent&bg_color=9370DB&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_radius=20&rank_icon=github&include_all_commits=tru)
 
 &nbsp;
 
@@ -26,18 +26,18 @@
 
 <p align="center">
   <a href="https://github.com/CopeMonster/Copium">
-    <img width="400" height="180" src="https://github-readme-stats.vercel.app/api/pin/?username=CopeMonster&repo=Copium&theme=transparent&title_color=9370DB&text_color=9370DB&icon_color=9370DB&border_color=9370DB&border_radius=20" />
+    <img width="400" height="180" src="https://github-readme-stats.vercel.app/api/pin/?username=CopeMonster&repo=Copium&theme=transparent&bg_color=9370DB&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=9370DB&border_radius=20" />
   </a>
-  <a href="https://github.com/CopeMonster/OpportuNetRewrite">
-    <img width="400" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=CopeMonster&repo=OpportuNetRewrite&theme=transparent&title_color=9370DB&text_color=9370DB&icon_color=9370DB&border_color=9370DB&border_radius=20" />
+  <a href="https://github.com/CopeMonster/Copium">
+    <img width="400" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=CopeMonster&repo=OpportuNetRewrite&theme=transparent&bg_color=9370DB&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=9370DB&border_radius=20" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/CopeMonster/KinoReviewRewrite">
-    <img width="400" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=CopeMonster&repo=KinoReviewRewrite&theme=transparent&title_color=9370DB&text_color=9370DB&icon_color=9370DB&border_color=9370DB&border_radius=20" />
+  <a href="https://github.com/CopeMonster/Copium">
+    <img width="400" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=CopeMonster&repo=KinoReviewRewrite&theme=transparent&bg_color=9370DB&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=9370DB&border_radius=20" />
   </a>
-  <a href="https://github.com/CopeMonster/CarShopCRM">
-    <img width="400" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=CopeMonster&repo=CarShopCRM&theme=transparent&title_color=9370DB&text_color=9370DB&icon_color=9370DB&border_color=9370DB&border_radius=20" />
+  <a href="https://github.com/CopeMonster/Copium">
+    <img width="400" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=CopeMonster&repo=CarShopCRM&theme=transparent&bg_color=9370DB&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=9370DB&border_radius=20" />
   </a>
 </p>
