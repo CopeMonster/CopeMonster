@@ -18,7 +18,7 @@
 
 ![Statistics](https://img.shields.io/badge/Statistics-9370DB?style=for-the-badge)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CopeMonster&show_icons=true&theme=transparent&bg_color=9370DB&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_radius=20&rank_icon=github&include_all_commits=tru)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CopeMonster&show_icons=true&theme=transparent&bg_color=9370DB&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=9370DB&border_radius=20&rank_icon=github&include_all_commits=tru)
 
 &nbsp;
 
