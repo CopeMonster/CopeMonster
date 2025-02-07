@@ -52,8 +52,7 @@
 ![Statistics](https://img.shields.io/badge/Statistics-9370DB?style=for-the-badge)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CopeMonster&show_icons=true&theme=transparent&title_color=9370DB&text_color=9370DB&icon_color=9370DB&border_color=9370DB&border_radius=20&rank_icon=github&include_all_commits=tru)
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/CopeMonster?theme=transparent&font=Inknut%20Antiqua&ext=heatmap)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CopeMonster&theme=transparent&title_color=9370DB&text_color=9370DB&icon_color=9370DB&border_color=9370DB&border_radius=20)](https://github.com/anuraghazra/github-readme-stats)
 
 &nbsp;
 
@@ -75,3 +74,10 @@
     <img width="400" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=CopeMonster&repo=CarShopCRM&theme=transparent&title_color=9370DB&text_color=9370DB&icon_color=9370DB&border_color=9370DB&border_radius=20" />
   </a>
 </p>
+
+![LeetCode](https://img.shields.io/badge/LeetCode-9370DB?style=for-the-badge)
+
+&nbsp;
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/CopeMonster?theme=transparent&font=Inknut%20Antiqua&ext=heatmap)
+
