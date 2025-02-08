@@ -5,7 +5,7 @@
 &nbsp;
 &nbsp;
 
-![Connect with me](https://img.shields.io/badge/Connect%2C%20with%20me-9370DB?style=for-the-badge)
+![Connect with me](https://img.shields.io/badge/Connect%20with%20me-9370DB?style=for-the-badge)
 
 <p align="left">
 <a href="https://www.linkedin.com/in/alan-kassymbek/" target="blank"><img align="center" src="https://github.com/CopeMonster/CopeMonster/blob/main/assets/linkedin_icon.svg" alt="" height="30" width="40" /></a>
